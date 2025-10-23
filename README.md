@@ -40,4 +40,4 @@ ClimaNow is an **interactive weather app** that gives real-time updates for any 
 
 ![Screenshot 1](https://github.com/jahnavi20042005/Weather-App/blob/main/op01.png?raw=true)
 ![Screenshot 2](https://github.com/jahnavi20042005/Weather-App/blob/main/opo2.png?raw=true)
-![Screenshot 3](C:\Users\jahna\OneDrive\Documents\html\Weather App\screenshots\opo3.png)
+![Screenshot 3](https://github.com/jahnavi20042005/Weather-App/blob/main/opo3.png?raw=true)
