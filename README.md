@@ -31,4 +31,14 @@ ClimaNow is an **interactive weather app** that gives real-time updates for any 
 
    ```bash
    git clone https://github.com/your-username/ClimaNow.git
+2.Open index.html in your browser.
 
+3.Enter a city name 🔎 or click "Use My Location" 📍.
+
+4.View current weather, 5-day forecast, and enjoy dynamic backgrounds 🎨.
+
+### Output Screenshots
+
+![Screenshot 1](op01.png)
+![Screenshot 2](op02.png)
+![Screenshot 3](op03.png)
