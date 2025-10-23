@@ -39,7 +39,6 @@ ClimaNow is an **interactive weather app** that gives real-time updates for any 
 
 ### Output Screenshots
 
-![Screenshot 1](screenshots/default.png)
-![Screenshot 2](screenshots/city-search.png)
-![Screenshot 3](screenshots/location-weather.png)
-![Screenshot 4](screenshots/forecast.png) i have kept like this in readme but now how i can keep the image where to upload like thtat
+![Screenshot 1](screenshots/op01.png)
+![Screenshot 2](screenshots/op02.png)
+![Screenshot 3](screenshots/op03.png)
