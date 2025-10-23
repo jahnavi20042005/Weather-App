@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ClimaNow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="default-bg">
+  <nav class="navbar">
+    <div class="nav-left">
+      <span class="logo-icon">☀️</span>
+      <h2 class="logo">ClimaNow</h2><br><br>
+    </div>
+    <ul class="nav-links">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Weather</a></li>
+      <li><a href="#about" id="about-link">About</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <div class="container">
+      <h1>🌎ClimaNow</h1><br>
+      <div class="search-area"> 
+        <input type="text" id="cityInput" placeholder="Enter city name">
+        <ul id="citySuggestions" class="city-suggestions"></ul> 
+      </div>
+      <button id="searchBtn">Search</button><br><br>
+      <button id="locationBtn">Use My Location</button>
+      
+      <div id="weatherResult"></div>
+      <div id="forecastResult" class="forecast-container"></div>
+    </div>
+
+    <section id="about" class="about-section">
+      <div class="about-container">
+        <h2>About ClimaNow</h2>
+        <p>
+          ClimaNow is a simple and smart weather app that gives you 
+          real-time weather updates for any city worldwide. 
+          Stay informed about temperature, humidity, and conditions 
+          with a clean and user-friendly interface.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
