@@ -23,7 +23,6 @@ ClimaNow is an **interactive weather app** that gives real-time updates for any 
 - **Images API:** Unsplash  
 - **No frameworks needed** (Vanilla JS)  
 
----
 
 ## 🚀 How to Run
 
@@ -39,6 +38,6 @@ ClimaNow is an **interactive weather app** that gives real-time updates for any 
 
 ### Output Screenshots
 
-![Screenshot 1](screenshots/op01.png)
-![Screenshot 2](screenshots/op02.png)
-![Screenshot 3](screenshots/op03.png)
+![Screenshot 1](C:\Users\jahna\OneDrive\Documents\html\Weather App\screenshots\op01.png)
+![Screenshot 2](C:\Users\jahna\OneDrive\Documents\html\Weather App\screenshots\opo2.png)
+![Screenshot 3](C:\Users\jahna\OneDrive\Documents\html\Weather App\screenshots\opo3.png)
