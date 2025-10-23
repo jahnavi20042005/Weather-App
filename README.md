@@ -39,6 +39,6 @@ ClimaNow is an **interactive weather app** that gives real-time updates for any 
 
 ### Output Screenshots
 
-![Screenshot 1](op01.png)
-![Screenshot 2](op02.png)
-![Screenshot 3](op03.png)
+![Screenshot 1](screenshots/op01.png)
+![Screenshot 2](screenshots/op02.png)
+![Screenshot 3](screenshots/op03.png)
